@@ -20,11 +20,13 @@ jobs:
                 python -m pip install --upgrade pip
                 pip install -r requirements.txt
             
-            - name: Run Flask Server in Backgorund
+            - name: Run Flask Server in Background
               run: |
-                python app.py
-                sleep 5
-            
+                python app.py &
+                sleep 10 
+
+            - name: Check if Flask is Running
+              run: ps aux | grep app.py
+
             - name: Test API Endpoint
               run: curl -X GET http://127.0.0.1:3000/
-                
