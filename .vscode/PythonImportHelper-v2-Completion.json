@@ -1,0 +1,629 @@
+[
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {}
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {}
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {}
+    },
+    {
+        "label": "current_app",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "jsonify",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "utils.extensions",
+        "description": "utils.extensions",
+        "isExtraImport": true,
+        "detail": "utils.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "importPath": "utils.extensions",
+        "description": "utils.extensions",
+        "isExtraImport": true,
+        "detail": "utils.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "utils.extensions",
+        "description": "utils.extensions",
+        "isExtraImport": true,
+        "detail": "utils.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "importPath": "utils.extensions",
+        "description": "utils.extensions",
+        "isExtraImport": true,
+        "detail": "utils.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "importPath": "utils.extensions",
+        "description": "utils.extensions",
+        "isExtraImport": true,
+        "detail": "utils.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "importPath": "utils.extensions",
+        "description": "utils.extensions",
+        "isExtraImport": true,
+        "detail": "utils.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "migrate",
+        "importPath": "utils.extensions",
+        "description": "utils.extensions",
+        "isExtraImport": true,
+        "detail": "utils.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "create_access_token",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "jwt_required",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "get_jwt_identity",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "JWTManager",
+        "importPath": "flask_jwt_extended",
+        "description": "flask_jwt_extended",
+        "isExtraImport": true,
+        "detail": "flask_jwt_extended",
+        "documentation": {}
+    },
+    {
+        "label": "AuthService",
+        "importPath": "services",
+        "description": "services",
+        "isExtraImport": true,
+        "detail": "services",
+        "documentation": {}
+    },
+    {
+        "label": "HealthService",
+        "importPath": "services",
+        "description": "services",
+        "isExtraImport": true,
+        "detail": "services",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "models",
+        "description": "models",
+        "isExtraImport": true,
+        "detail": "models",
+        "documentation": {}
+    },
+    {
+        "label": "Migrate",
+        "importPath": "flask_migrate",
+        "description": "flask_migrate",
+        "isExtraImport": true,
+        "detail": "flask_migrate",
+        "documentation": {}
+    },
+    {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {}
+    },
+    {
+        "label": "Bcrypt",
+        "importPath": "flask_bcrypt",
+        "description": "flask_bcrypt",
+        "isExtraImport": true,
+        "detail": "flask_bcrypt",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "isExtraImport": true,
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "auth_bp",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "todo_bp",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "heath_bp",
+        "importPath": "routes",
+        "description": "routes",
+        "isExtraImport": true,
+        "detail": "routes",
+        "documentation": {}
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.569d3b17ffa3_initial_model",
+        "description": "migrations.versions.569d3b17ffa3_initial_model",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('todo',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=False),\n    sa.Column('created_at', sa.DateTime(), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )\n    op.create_table('user',\n    sa.Column('id', sa.Integer(), nullable=False),",
+        "detail": "migrations.versions.569d3b17ffa3_initial_model",
+        "documentation": {}
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.569d3b17ffa3_initial_model",
+        "description": "migrations.versions.569d3b17ffa3_initial_model",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('user')\n    op.drop_table('todo')\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.569d3b17ffa3_initial_model",
+        "documentation": {}
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.569d3b17ffa3_initial_model",
+        "description": "migrations.versions.569d3b17ffa3_initial_model",
+        "peekOfCode": "revision = '569d3b17ffa3'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('todo',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=False),\n    sa.Column('created_at', sa.DateTime(), nullable=True),",
+        "detail": "migrations.versions.569d3b17ffa3_initial_model",
+        "documentation": {}
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.569d3b17ffa3_initial_model",
+        "description": "migrations.versions.569d3b17ffa3_initial_model",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('todo',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=False),\n    sa.Column('created_at', sa.DateTime(), nullable=True),\n    sa.PrimaryKeyConstraint('id')",
+        "detail": "migrations.versions.569d3b17ffa3_initial_model",
+        "documentation": {}
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.569d3b17ffa3_initial_model",
+        "description": "migrations.versions.569d3b17ffa3_initial_model",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('todo',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=False),\n    sa.Column('created_at', sa.DateTime(), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )",
+        "detail": "migrations.versions.569d3b17ffa3_initial_model",
+        "documentation": {}
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.569d3b17ffa3_initial_model",
+        "description": "migrations.versions.569d3b17ffa3_initial_model",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('todo',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=False),\n    sa.Column('created_at', sa.DateTime(), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )\n    op.create_table('user',",
+        "detail": "migrations.versions.569d3b17ffa3_initial_model",
+        "documentation": {}
+    },
+    {
+        "label": "get_engine",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):\n        # this works with Flask-SQLAlchemy>=3\n        return current_app.extensions['migrate'].db.engine\ndef get_engine_url():\n    try:\n        return get_engine().url.render_as_string(hide_password=False).replace(",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_engine_url",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def get_engine_url():\n    try:\n        return get_engine().url.render_as_string(hide_password=False).replace(\n            '%', '%%')\n    except AttributeError:\n        return str(get_engine().url).replace('%', '%%')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "get_metadata",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def get_metadata():\n    if hasattr(target_db, 'metadatas'):\n        return target_db.metadatas[None]\n    return target_db.metadata\ndef run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_online():\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    # this callback is used to prevent an auto-migration from being generated\n    # when there are no changes to the schema\n    # reference: http://alembic.zzzcomputing.com/en/latest/cookbook.html\n    def process_revision_directives(context, revision, directives):\n        if getattr(config.cmd_opts, 'autogenerate', False):",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nfileConfig(config.config_file_name)\nlogger = logging.getLogger('alembic.env')\ndef get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "logger = logging.getLogger('alembic.env')\ndef get_engine():\n    try:\n        # this works with Flask-SQLAlchemy<3 and Alchemical\n        return current_app.extensions['migrate'].db.get_engine()\n    except (TypeError, AttributeError):\n        # this works with Flask-SQLAlchemy>=3\n        return current_app.extensions['migrate'].db.engine\ndef get_engine_url():\n    try:",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "target_db",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "target_db = current_app.extensions['migrate'].db\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef get_metadata():\n    if hasattr(target_db, 'metadatas'):\n        return target_db.metadatas[None]\n    return target_db.metadata\ndef run_migrations_offline():",
+        "detail": "migrations.env",
+        "documentation": {}
+    },
+    {
+        "label": "Todo",
+        "kind": 6,
+        "importPath": "models.todo",
+        "description": "models.todo",
+        "peekOfCode": "class Todo(db.Model):\n    id = db.Column(db.Integer, primary_key = True)\n    name = db.Column(db.String(255), nullable = False)\n    created_at = db.Column(db.DateTime, default=datetime.utcnow)",
+        "detail": "models.todo",
+        "documentation": {}
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "models.user",
+        "description": "models.user",
+        "peekOfCode": "class User(db.Model):\n    id = db.Column(db.Integer, primary_key = True)\n    name = db.Column(db.String(255), nullable = False)\n    email = db.Column(db.String(255), unique = True ,nullable = False)\n    password = db.Column(db.String(255), nullable = False)\n    created_at = db.Column(db.DateTime, default=datetime.utcnow)\n    # Methods\n    def set_password(self, password):\n        \"\"\"Hashes the password before storing it.\"\"\"\n        self.password = bcrypt.generate_password_hash(password).decode('utf-8')",
+        "detail": "models.user",
+        "documentation": {}
+    },
+    {
+        "label": "get_user",
+        "kind": 2,
+        "importPath": "routes.auth_routes",
+        "description": "routes.auth_routes",
+        "peekOfCode": "def get_user():\n    try:\n        return AuthService.get_user()\n    except Exception as e:\n        print(str(e))\n        return jsonify({\"message\": \"Opps Something went wrong!\"}), 400\n@auth_bp.route('/login', methods = ['POST'])\ndef login():\n    try:\n        data = request.get_json()",
+        "detail": "routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "routes.auth_routes",
+        "description": "routes.auth_routes",
+        "peekOfCode": "def login():\n    try:\n        data = request.get_json()\n        return AuthService.login(data)\n    except Exception as e:\n        print(str(e))\n        return jsonify({\"message\": \"Opps Something went wrong!\"}), 400\n@auth_bp.route('/register', methods = ['POST'])\ndef register():\n    try:",
+        "detail": "routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "routes.auth_routes",
+        "description": "routes.auth_routes",
+        "peekOfCode": "def register():\n    try:\n        data = request.get_json()\n        return AuthService.register(data)\n    except Exception as e:\n        print(str(e))\n        return jsonify({\"message\": \"Opps Something went wrong!\"}), 400",
+        "detail": "routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "auth_bp",
+        "kind": 5,
+        "importPath": "routes.auth_routes",
+        "description": "routes.auth_routes",
+        "peekOfCode": "auth_bp = Blueprint('auth',__name__)\n@auth_bp.route('/', methods = ['GET'])\ndef get_user():\n    try:\n        return AuthService.get_user()\n    except Exception as e:\n        print(str(e))\n        return jsonify({\"message\": \"Opps Something went wrong!\"}), 400\n@auth_bp.route('/login', methods = ['POST'])\ndef login():",
+        "detail": "routes.auth_routes",
+        "documentation": {}
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "routes.health_routes",
+        "description": "routes.health_routes",
+        "peekOfCode": "def index():\n    return HealthService.index()",
+        "detail": "routes.health_routes",
+        "documentation": {}
+    },
+    {
+        "label": "heath_bp",
+        "kind": 5,
+        "importPath": "routes.health_routes",
+        "description": "routes.health_routes",
+        "peekOfCode": "heath_bp = Blueprint('health',__name__)\n@heath_bp.route('/', methods = ['GET'])\ndef index():\n    return HealthService.index()",
+        "detail": "routes.health_routes",
+        "documentation": {}
+    },
+    {
+        "label": "get_todos",
+        "kind": 2,
+        "importPath": "routes.todo_routes",
+        "description": "routes.todo_routes",
+        "peekOfCode": "def get_todos():\n    return jsonify({\"message\":\"login\"})",
+        "detail": "routes.todo_routes",
+        "documentation": {}
+    },
+    {
+        "label": "todo_bp",
+        "kind": 5,
+        "importPath": "routes.todo_routes",
+        "description": "routes.todo_routes",
+        "peekOfCode": "todo_bp = Blueprint('todo',__name__)\n@todo_bp.route('/', methods = ['GET'])\ndef get_todos():\n    return jsonify({\"message\":\"login\"})",
+        "detail": "routes.todo_routes",
+        "documentation": {}
+    },
+    {
+        "label": "AuthService",
+        "kind": 6,
+        "importPath": "services.auth_services",
+        "description": "services.auth_services",
+        "peekOfCode": "class AuthService:\n    @staticmethod\n    def login(data):\n        if 'email' not in data or 'password' not in data:\n            return jsonify({\"message\": \"All fields are required\"}), 400\n        user:User = User.find_by_email(email=data['email'])\n        if user is None:\n            return jsonify({\"message\": \"Invalid Email or Password\"}), 400\n        if not user.check_password(data['password']):\n            return jsonify({\"message\": \"Invalid Email or Password\"}), 400",
+        "detail": "services.auth_services",
+        "documentation": {}
+    },
+    {
+        "label": "HealthService",
+        "kind": 6,
+        "importPath": "services.health_services",
+        "description": "services.health_services",
+        "peekOfCode": "class HealthService:\n    @staticmethod\n    def index():\n        return jsonify({\"message\":\"Hi There! App is working fine !\"})",
+        "detail": "services.health_services",
+        "documentation": {}
+    },
+    {
+        "label": "TodoService",
+        "kind": 6,
+        "importPath": "services.todo_services",
+        "description": "services.todo_services",
+        "peekOfCode": "class TodoService:\n    @staticmethod\n    def getTodos(data):\n        return jsonify({\"message\":\"sa\"})",
+        "detail": "services.todo_services",
+        "documentation": {}
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "utils.config",
+        "description": "utils.config",
+        "peekOfCode": "class Config:\n    SECRET_KEY = \"your_secret_key\"\n    SQLALCHEMY_DATABASE_URI = 'sqlite:///todo.db'\n    SQLALCHEMY_TRACK_MODIFICATIONS = False\n    JWT_SECRET_KEY = \"your_jwt_secret\"",
+        "detail": "utils.config",
+        "documentation": {}
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "utils.extensions",
+        "description": "utils.extensions",
+        "peekOfCode": "db = SQLAlchemy()\nmigrate = Migrate()\njwt = JWTManager()\nbcrypt = Bcrypt()",
+        "detail": "utils.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "migrate",
+        "kind": 5,
+        "importPath": "utils.extensions",
+        "description": "utils.extensions",
+        "peekOfCode": "migrate = Migrate()\njwt = JWTManager()\nbcrypt = Bcrypt()",
+        "detail": "utils.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "jwt",
+        "kind": 5,
+        "importPath": "utils.extensions",
+        "description": "utils.extensions",
+        "peekOfCode": "jwt = JWTManager()\nbcrypt = Bcrypt()",
+        "detail": "utils.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "bcrypt",
+        "kind": 5,
+        "importPath": "utils.extensions",
+        "description": "utils.extensions",
+        "peekOfCode": "bcrypt = Bcrypt()",
+        "detail": "utils.extensions",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = Flask(__name__)\n#loding the config\napp.config.from_object(Config)\n# initializing the app\ndb.init_app(app)\nmigrate.init_app(app, db)\njwt.init_app(app)\nbcrypt.init_app(app)\n# registering blueprint\napp.register_blueprint(heath_bp, url_prefix = '/')",
+        "detail": "app",
+        "documentation": {}
+    }
+]
